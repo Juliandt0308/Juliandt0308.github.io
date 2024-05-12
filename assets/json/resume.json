@@ -25,7 +25,6 @@
       "startDate": "2020-03-01",
       "endDate": "2026-02-28",
       "score": "4.32",
-      "credits": "95",
       "courses": ["Computational Thinking and Software Coding, Creative and Interdisciplinary Design, Elementary Business Statistics, Problem Solving and Algorithm, Internet and Management, AI Basics & Uses, Logic Circuits, Management Information Processing, Data Structures, System Program, Introduction to Computer Architectures, Java Programming Lab, Open Source Programming Lab, Seminar in Computer Science"]
     }
   ],
@@ -50,37 +49,37 @@
       "name": "C language",
       "level": "Moderate",
       "icon": "fa-solid fa-hashtag",
-      "keywords":[]
+      "keywords":["C language"]
     },    
     {
       "name": "JAVA",
       "level": "Moderate",
       "icon": "fa-solid fa-hashtag",
-      "keywords":[]
+      "keywords":["JAVA"]
     },
     {
       "name": "Python",
       "level": "Below Average, Improving",
       "icon": "fa-solid fa-hashtag",
-      "keywords":[]
+      "keywords":["Python"]
     },
     {
       "name": "Korean",
       "level": "Native speaker",
       "icon": "fa-solid fa-hashtag",
-      "keywords":[]
+      "keywords":["Korean"]
     },
     {
       "name": "English",
       "level": "Fluent",
       "icon": "fa-solid fa-hashtag",
-      "keywords":[]
+      "keywords":["English"]
     },
     {
       "name": "Japanese",
       "level": "Moderate",
       "icon": "fa-solid fa-hashtag",
-      "keywords":[]
+      "keywords":["Japanese"]
     }
   ]
 }
