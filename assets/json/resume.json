@@ -32,7 +32,7 @@
   "awards": [
     {
       "title": "Students' Success Scholarship",
-      "date": "2023-03-01, 2024-03-01",
+      "date": "2023-03-01",
       "awarder": "SKKU",
       "summary": "Scholarship for students who achieved the highest grades for a semester"
     }
@@ -46,7 +46,7 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "skills and languages": [
+  "skills": [
     {
       "skill": "C language",
       "level": "Moderate",
