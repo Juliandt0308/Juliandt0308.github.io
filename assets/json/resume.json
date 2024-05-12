@@ -40,7 +40,6 @@
   "certificates": [
     {
       "name": "IELTS",
-      "score": "Overall 7.0",
       "date": "2023-12-26",
       "issuer": "The British Council",
       "icon": "fa-solid fa-location-dot"
@@ -48,34 +47,40 @@
   ],
   "skills": [
     {
-      "skill": "C language",
+      "name": "C language",
       "level": "Moderate",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag",
+      "keywords":[]
     },    
     {
-      "skill": "JAVA",
+      "name": "JAVA",
       "level": "Moderate",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag",
+      "keywords":[]
     },
     {
-      "skill": "Python",
+      "name": "Python",
       "level": "Below Average, Improving",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag",
+      "keywords":[]
     },
     {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Korean",
+      "level": "Native speaker",
+      "icon": "fa-solid fa-hashtag",
+      "keywords":[]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "English",
+      "level": "Fluent",
+      "icon": "fa-solid fa-hashtag",
+      "keywords":[]
     },
     {
-      "language": "Japanese",
-      "fluency": "Moderate",
-      "icon": ""
+      "name": "Japanese",
+      "level": "Moderate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords":[]
     }
   ]
 }
